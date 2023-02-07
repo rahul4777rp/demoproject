@@ -3,3 +3,5 @@ this text from local branch
 this text from local folder to master
 
 added 5 th line
+
+added 7th line
