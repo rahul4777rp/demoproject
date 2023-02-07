@@ -1,7 +1,7 @@
 Hello World !!!
 this text from local branch
-this text from local folder to master
-
+this text from local folder to master adde few words
+ 
 added 5 th line
 
 added 7th line
